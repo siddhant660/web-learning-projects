@@ -1,0 +1,22 @@
+body {
+    background-color: #111111;
+}
+h2 {
+    color: white;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+
+h3{
+    color: #00ff73;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+}
+
+p, .lists , .forms{
+    color:#00ff73;
+    text-decoration: underline;
+}
